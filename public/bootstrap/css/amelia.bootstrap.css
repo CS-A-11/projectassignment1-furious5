@@ -1,4 +1,5 @@
 @import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 
 /*!
  * Bootstrap v3.0.0
@@ -306,7 +307,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #ffffff;
-  background-color: #108a93;
+  background-color: #372e87;
 }
 
 input,
@@ -3442,7 +3443,7 @@ input[type="button"].btn-block {
 }
 
 .dropup .caret,
-.navbar-fixed-bottom .dropdown .caret {
+.navbar-bottom .dropdown .caret {
   border-top: 0 dotted;
   border-bottom: 4px solid #ffffff;
   content: "";
@@ -4487,6 +4488,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   right: 0;
   left: 0;
   border-width: 0 0 1px;
+
 }
 
 @media (min-width: 768px) {
@@ -4699,7 +4701,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #ad1d28;
+  background-color: #D35400;
   border-color: #911821;
 }
 
@@ -5150,7 +5152,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .pager .disabled > span {
   color: #ffffff;
   cursor: not-allowed;
-  background-color: #13a0aa;
+  background-color: #D0D3D4;
 }
 
 .label {
@@ -7323,7 +7325,7 @@ legend {
 }
 
 .list-group-item {
-  background-color: #13a0aa;
+  background-color: #d42146
 }
 
 .popover {
